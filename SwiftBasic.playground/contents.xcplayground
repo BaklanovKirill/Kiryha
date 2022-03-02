@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Горячие клавиши'/>
+        <page name='Базовые операторы'/>
+        <page name='Массивы'/>
+        <page name='Словари'/>
+        <page name='Множества(sets)'/>
+    </pages>
+</playground>
